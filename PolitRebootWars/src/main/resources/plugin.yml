@@ -1,0 +1,7 @@
+name: PolitRebootWars
+version: '1.0.0'
+main: org.worldcraft.politRebootWars.PolitRebootWars
+api-version: '1.21'
+authors: [ Dmitry ("admin") – original MCGL project Darkness ("mrfrog") – Return to Galaxy remake ]
+description: A tribute remake of the legendary Minecraft Galaxy (MCGL) project.  Recreating the original gameplay, professions, races, planets, and economy  for modern Minecraft versions.
+website: https://minecraft-galaxy.ru/ru/
